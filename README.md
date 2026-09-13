@@ -14,7 +14,7 @@ TUNEVIZ 支持高保真音质、沉浸式体验和轻量流畅的操作，旨在
 
 | 操作 | 链接 |
 | :--- | :--- |
-| 选择播放器 | [https://tuneviz.github.io/home](https://tuneviz.github.io/home) |
+| 选择播放器 | [https://tuneviz.github.io/home](https://tuneviz.github.io/HOME) |
 | 致谢页面 | [https://tuneviz.github.io/thanks](https://tuneviz.github.io/thanks) |
 
 点击“选择播放器”进入播放器选择界面，挑选适合你的播放器，即可开始聆听。
