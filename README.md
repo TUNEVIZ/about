@@ -14,9 +14,27 @@ TUNEVIZ 支持高保真音质、沉浸式体验和轻量流畅的操作，旨在
 
 | 操作 | 链接 |
 | :--- | :--- |
-| 选择播放器 | [https://tuneviz.github.io/home](https://tuneviz.github.io/HOME) |
+| 选择播放器 | [https://tuneviz.github.io/home](https://tuneviz.github.io/home) |
+| 致谢页面 | [https://tuneviz.github.io/thanks](https://tuneviz.github.io/thanks) |
 
 点击“选择播放器”进入播放器选择界面，挑选适合你的播放器，即可开始聆听。
+
+---
+
+## ⚙️ 配置要求
+
+TUNEVIZ 为网页播放器，实际体验取决于浏览器与网络环境。建议使用最新版浏览器以获得最佳效果。
+
+| 项目 | 最低配置 | 推荐配置 |
+| :--- | :--- | :--- |
+| 操作系统 | Windows 7 / macOS 10.12 / Linux / Android 5.0 / iOS 10 | Windows 10+ / macOS 11+ / Android 9+ / iOS 14+ |
+| 浏览器 | Chrome 80+ / Edge 80+ / Firefox 75+ / Safari 13+ | Chrome 最新版 / Edge 最新版 / Safari 最新版 |
+| 网络 | 2 Mbps 宽带 | 10 Mbps 或以上 |
+| 内存 | 2 GB RAM | 4 GB RAM 或以上 |
+| 存储空间 | 100 MB 可用空间 | 500 MB 可用空间（缓存） |
+| 音频设备 | 标准扬声器 / 耳机 | 高保真耳机 / 音响 |
+
+> 若设备性能较低，建议关闭其他占用资源的应用，并使用有线网络连接以获得更稳定的播放体验。
 
 ---
 
